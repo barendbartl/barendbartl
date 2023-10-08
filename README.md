@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 - 👋 Hi, I’m @barendbartl
 - 👀 I’m interested in becoming a certified Machine Learning Engineer. 
 - 🌱 I’m currently learning Python and hope to obtain my Certified Entry-Level Python Programmer certification soon.
